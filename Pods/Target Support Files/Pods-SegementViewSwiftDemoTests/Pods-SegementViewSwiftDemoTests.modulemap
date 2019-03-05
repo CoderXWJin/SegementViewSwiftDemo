@@ -1,0 +1,6 @@
+framework module Pods_SegementViewSwiftDemoTests {
+  umbrella header "Pods-SegementViewSwiftDemoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
